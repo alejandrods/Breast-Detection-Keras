@@ -13,7 +13,7 @@ Make sure you have the following is installed:
  - [NumPy](http://www.numpy.org/)
 
 ##### Dataset
-Download the [Kitti Road dataset](http://www.cvlibs.net/datasets/kitti/eval_road.php) from [here](http://www.cvlibs.net/download.php?file=data_road.zip).  Extract the dataset in the `data` folder.
+Download the dataset (https://www.kaggle.com/paultimothymooney/predict-idc-in-breast-cancer-histology-images/data). Extract the dataset in the `data` folder.
 
 ### Start
 ##### Dataset
@@ -24,4 +24,5 @@ Run the following command to run the project:
 python model.py
 ```
 **Note** If running this in Jupyter Notebook system messages, such as those regarding test status, may appear in the terminal rather than the notebook.
+
 
